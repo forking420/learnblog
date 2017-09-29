@@ -1,0 +1,5 @@
+config start---->
+
+1. index.php
+2.config.php
+3.htaccss file
