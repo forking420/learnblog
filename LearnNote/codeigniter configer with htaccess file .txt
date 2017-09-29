@@ -1,5 +1,12 @@
 config start---->
 
 1. index.php
+	-change application folder name
+	- change system folder name
 2.config.php
+	change 4 items
 3.htaccss file
+	edited by url
+4. autoload.
+	edited.
+5. database.php
